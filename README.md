@@ -1,5 +1,5 @@
 readme_content = """
-# GamerInsights
+Gaming Artciles WebScraper Redis
 
 ## Overview
 
